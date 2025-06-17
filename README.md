@@ -64,4 +64,4 @@ A fully responsive Pokedex built using **ReactJS**, featuring both **light & dar
 
 ## 🚀 Live Demo
 
-👉 [Demo Developer Portfolio](https://google-search2-home-page.netlify.app/)
+👉 [Pokedex](https://a-cool-pokedex.netlify.app/)
