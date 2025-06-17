@@ -44,10 +44,10 @@ A fully responsive Pokedex built using **ReactJS**, featuring both **light & dar
 ## 📸 Preview
 
 ![light-mode-preview](pokedex_light.png)  
-<img width="722" alt="pokedex_light" src="https://github.com/user-attachments/assets/b1d6c9cd-511e-4f71-83e5-05e333705494" />
+<img width="522" alt="pokedex_light" src="https://github.com/user-attachments/assets/b1d6c9cd-511e-4f71-83e5-05e333705494" />
 
-![dark-mode-preview](https://github.com/user-attachments/assets/16f6a0de-d020-41bd-a090-41a92cfc31e4.png)
-<img width="751" alt="pokedex_dark" src="https://github.com/user-attachments/assets/16f6a0de-d020-41bd-a090-41a92cfc31e4" />
+![dark-mode-preview](https://private-user-images.githubusercontent.com/209874739/455962448-16f6a0de-d020-41bd-a090-41a92cfc31e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxNTkxMTgsIm5iZiI6MTc1MDE1ODgxOCwicGF0aCI6Ii8yMDk4NzQ3MzkvNDU1OTYyNDQ4LTE2ZjZhMGRlLWQwMjAtNDFiZC1hMDkwLTQxYTkyY2ZjMzFlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxN1QxMTEzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZmFiNjNkZDVhYTQ1OTQ3N2FkOTJmOGRiNGM5M2E5NmUzYThlZWYzNmFkYTdmOTMyN2I2MzNjYTgzNmZlOWMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5WHO5JoPOAyu2XiI-HBHPgzg58nhtrDEa8GzhUFjnqo)
+<img width="522" alt="pokedex_dark" src="https://github.com/user-attachments/assets/16f6a0de-d020-41bd-a090-41a92cfc31e4" />
 
 
 ---
