@@ -1,4 +1,4 @@
-# 🧿 Pokedex App – ReactJS
+# 🐹 Pokedex App – ReactJS
 
 A fully responsive Pokedex built using **ReactJS**, featuring both **light & dark themes**, detailed Pokémon stats, move descriptions, and a dynamic side navigation menu. Data is sourced from the [PokeAPI](https://pokeapi.co/) and cached locally for faster performance.
 
