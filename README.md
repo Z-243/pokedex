@@ -43,10 +43,10 @@ A fully responsive Pokedex built using **ReactJS**, featuring both **light & dar
 
 ## 📸 Preview
 
-![light-mode-preview](pokedex_light.png)  
+![light-mode-preview](./assets/pokedex_light.png)  
 
 
-![dark-mode-preview]()
+![dark-mode-preview](./assets/pokedex_dark.png)
 
 
 
