@@ -1,4 +1,3 @@
-// useEffect to display the information on screen once application is loaded
 import { useEffect, useState } from "react";
 import { getFullPokedexNumber, getPokedexNumber } from "../utils";
 import TypeCard from "./TypeCard";
